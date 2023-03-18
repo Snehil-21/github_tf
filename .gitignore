@@ -1,0 +1,3 @@
+/terragrunt/.terragrunt-cache/
+/terragrunt/.terraform.lock.hcl
+/terraform/input.tfvars
